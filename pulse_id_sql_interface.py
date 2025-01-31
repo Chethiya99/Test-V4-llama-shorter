@@ -265,7 +265,7 @@ if st.session_state.interaction_history:
             
             # Only display extracted merchants if there is data and it does not contain ''
             if interaction['content']['extraction_results'] and interaction['content']['extraction_results'].raw and 'errorhappened' not in interaction['content']['extraction_results'].raw:
-                st.markdown("**Extracted Merchants:**")
+                #st.markdown("**Extracted Merchants:**")
                 #st.write(interaction['content']['extraction_results'].raw)
                 
                 # Show the "Generate Emails" button for this specific interaction
