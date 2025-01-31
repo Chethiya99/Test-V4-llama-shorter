@@ -3,7 +3,9 @@ Please Generate professional marketing emails for the following merchants and th
 {merchant_data}
 Please follow the below guidance:
 To: 'merchant_email'
+
 First use a personalized subject for each email.
+
 The email should feature a warm and professional greeting, maintaining a conversational yet professional tone to captivate the reader. 
 Incorporate the following: 
 The Google rating of the merchant's category (e.g., burger shops) and its comparison to the average market rating.If the rating is below the market average: Present actionable ways PulseID can help the recipient improve their position, draw more foot traffic, and build stronger customer loyalty.
